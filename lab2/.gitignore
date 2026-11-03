@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+tracked*.mp4
+demo_tracked.mp4
